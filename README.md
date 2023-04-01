@@ -1,5 +1,11 @@
-# Hi everyone 👋
-My name is Ilya Minin, I'm from Novorossiysk, Russia. Now I work as a college teacher, teaching the development of information systems based on XAML
+<div id='header' align= "center">
+    <h1>Hi everyone, I'm Iliya Minin  </h1>
+    <h3>Full Stack Developer from Moscow, Russia</h3>
+</div>
+<a href="telegram-url">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo-telegram&logoColor=white" alt="Telegram">
+</a>
+Teaching the development of information systems based on XAML
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,4 +15,3 @@ My name is Ilya Minin, I'm from Novorossiysk, Russia. Now I work as a college te
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
