@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**Yorduam/Yorduam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Hi everyone 👋
+My name is Ilya Minin, I'm from Novorossiysk, Russia. Now I work as a college teacher, teaching the development of information systems based on XAML
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
