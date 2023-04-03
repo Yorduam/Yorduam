@@ -1,7 +1,7 @@
 <div id='header' align= "center">
     <h1>Hi everyone, I'm Iliya Minin  </h1>
     <h3>Full Stack Developer from Moscow, Russia</h3>
-    <a href="https://t.me/+Jrq-yJ9ApkYxOWQy">
+    <a href="https://t.me/Yorduam">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
     <a href="https://discord.gg/7gGxJ4a2">
